@@ -1,4 +1,5 @@
 {
+  "application_number": 11,
   "address": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
   "name": "Datacap for clients who are paying to store data with storage providers supported by web3mine's Ramo Network",
   "organization": "web3mine AG",
@@ -19,7 +20,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-06-06T10:13:44.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
@@ -27,7 +28,7 @@
   },
   "audits": [
     {
-      "started": "2025-06-06T10:13:36.000Z",
+      "started": "2025-06-06T10:13:26.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
