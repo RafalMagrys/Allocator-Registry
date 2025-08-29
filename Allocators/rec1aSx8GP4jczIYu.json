@@ -53,6 +53,13 @@
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": ""
+    },
+    {
+      "started": "2025-08-29T09:57:17.201Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": ""
     }
   ],
   "old_allocator_id": "f03019296"
