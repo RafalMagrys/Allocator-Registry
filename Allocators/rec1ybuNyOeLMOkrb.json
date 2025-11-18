@@ -62,6 +62,13 @@
       "dc_allocated": "2025-02-17T01:00:00.000Z",
       "outcome": "DOUBLED",
       "datacap_amount": 20
+    },
+       {
+      "started": "2025-02-17T01:00:00.000Z",
+      "ended": "",
+      "dc_allocated": "2025-02-17T01:00:00.000Z",
+      "outcome": "PENDING",
+      "datacap_amount": ""
     }
   ],
   "old_allocator_id": "f03015757"
