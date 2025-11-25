@@ -6,7 +6,7 @@
   "organization": "Wiremock Labs 2",
   "pathway_addresses": {
     "msig": "",
-    "signers": ""
+    "signers": []
   },
   "associated_org_addresses": "f410wiremockorgaddr002",
   "application": {
@@ -37,7 +37,7 @@
       "started": "2025-11-25T14:26:50.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "TEST",
       "datacap_amount": 5
     }
   ],
