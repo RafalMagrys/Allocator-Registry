@@ -2,7 +2,7 @@
   "application_number": 110,
   "address": "f3wiremockallocator002",
   "name": "Mock Wiremock Allocator v2",
-  "allocator_id": "f3wiremockallocator002",
+  "allocator_id": "f3wiremockallocator002testtesttest",
   "organization": "Wiremock Labs 2",
   "pathway_addresses": {
     "msig": "",
